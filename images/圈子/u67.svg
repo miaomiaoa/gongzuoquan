@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="50px" height="50px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip9">
+    <mask fill="white" id="clip13">
       <path d="M 251 667  C 242.675 667  236 660.325  236 652  L 236 632  C 236 623.675  242.675 617  251 617  L 271 617  C 279.325 617  286 623.675  286 632  L 286 652  C 286 660.325  279.325 667  271 667  " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -236 -617 )">
-    <path d="M 236 617  L 286 617  L 286 667  L 236 667  L 236 617  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip9)" />
-    <path d="M 240 621  L 282 621  L 282 663  L 240 663  L 240 621  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip9)" />
-    <path d="M 265.75 632  C 263.65 632  262 630.35  262 628.25  C 262 626.15  263.65 624.5  265.75 624.5  C 267.85 624.5  269.5 626.15  269.5 628.25  C 269.5 630.35  267.85 632  265.75 632  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip9)" />
-    <path d="M 242 662  L 242 640.55  L 251.75 630.8  L 265.4 638.6  L 273.2 636.65  L 281 638.6  L 281 662  L 242 662  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip9)" />
+    <path d="M 236 617  L 286 617  L 286 667  L 236 667  L 236 617  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip13)" />
+    <path d="M 240 621  L 282 621  L 282 663  L 240 663  L 240 621  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip13)" />
+    <path d="M 265.75 632  C 263.65 632  262 630.35  262 628.25  C 262 626.15  263.65 624.5  265.75 624.5  C 267.85 624.5  269.5 626.15  269.5 628.25  C 269.5 630.35  267.85 632  265.75 632  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip13)" />
+    <path d="M 242 662  L 242 640.55  L 251.75 630.8  L 265.4 638.6  L 273.2 636.65  L 281 638.6  L 281 662  L 242 662  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip13)" />
   </g>
 </svg>
